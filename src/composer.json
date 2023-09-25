@@ -1,0 +1,10 @@
+{
+    "name": "sergey/src",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "Lib"
+        }
+    }
+}
